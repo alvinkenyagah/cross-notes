@@ -13,6 +13,7 @@ https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
   
 ### Kali
 https://www.kali.org/docs/wsl/win-kex/#optional-steps
+  
 In kali terminal run ``` kex --sl -s ```
 
   </li>
