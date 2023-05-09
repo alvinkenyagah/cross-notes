@@ -15,6 +15,8 @@ https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
 https://www.kali.org/docs/wsl/win-kex/#optional-steps
   
 In kali terminal run ``` kex --sl -s ```
+ 
+Start Win-KeX as root in window mode via: ``` sudo kex –esm ```
 
   </li>
   
