@@ -1,6 +1,7 @@
 # cross-notes
 
 ## ohmyposh terminal theming
+
 https://ohmyposh.dev/docs/installation/linux
 
 The cmd theme config located in clink directory ie ``` C:\Program Files (x86)\clink ```  file called ``` oh-my-posh.lua ```
