@@ -21,7 +21,8 @@ Run `exec bash` to restart termnal for effect to take place.
 
 Customize your terminal adding a predefined theme ie `eval "$(oh-my-posh init bash --config /home/linuxbrew/.linuxbrew/Cellar/oh-my-posh/16.2.3/themes/emodipt-extend.omp.json)"       _`
 
-The <a href="./Themes">Themes</a> include all the theme lines to add to the end `.bashrc` .
+find all available themes by entering ``` ls /home/linuxbrew/.linuxbrew/Cellar/oh-my-posh/16.2.3/themes/ ``` in the termianal
+
 
 ### wsl shell theming
 
