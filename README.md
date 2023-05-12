@@ -10,12 +10,9 @@ To configure powershell theme enter ``` notepad $PROFILE ```
 
 ### configure linux terminal
 
-
-
  
-
- 
-Install brew  ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``` 
+Install brew 
+``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``` 
 
 Install oh my posh ``` brew install jandedobbeleer/oh-my-posh/oh-my-posh ```  . 
 
