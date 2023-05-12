@@ -8,39 +8,32 @@ The cmd theme config located in clink directory ie ``` C:\Program Files (x86)\cl
 
 To configure powershell theme enter ``` notepad $PROFILE ```
 
-#### configure linux terminal
+### configure linux terminal
 
-<ol>
 
-<li> 
- Install brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``` . 
-  
-</li>
+
  
-<li> 
-Install oh my posh ``` brew install jandedobbeleer/oh-my-posh/oh-my-posh ```  . </li>
- 
-<li> 
-Add ``` eval "$(oh-my-posh init bash)" ``` at the end of the line of  ``` .bashrc ```  . 
-</li>
+ Install brew  ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
   
-<li>
-Run ``` exec bash ``` to restart termnal for effect to take place.
-  
-</li>
 
-  <li>
+
+ Install oh my posh ``` brew install jandedobbeleer/oh-my-posh/oh-my-posh ```  .
+
+ 
+
+ Add ``` eval "$(oh-my-posh init bash)" ``` at the end of the line of  ``` .bashrc ```  . 
+
+
+
+ Run  ``` exec bash ```  to restart termnal for effect to take place.
+  
+
 Customize your terminal adding a predefined theme ie ``` eval "$(oh-my-posh init bash --config /home/linuxbrew/.linuxbrew/Cellar/oh-my-posh/16.2.3/themes/emodipt-extend.omp.json)" ``` 
 
-  </li>
- 
-  <li> 
+  
     <a href"">THEMES</a>  include all the theme lines to add to the end ``` .bashrc ``` . 
   
-  </li> 
 
-
-</ol>
 
 
 ### wsl shell theming
