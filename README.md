@@ -12,15 +12,32 @@ To configure powershell theme enter ``` notepad $PROFILE ```
 
 <ol>
 
-<li> Install brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``` . </li>
-  <li> Install oh my posh ``` brew install jandedobbeleer/oh-my-posh/oh-my-posh ```  . </li>
- 
-  <li> Add ``` eval "$(oh-my-posh init bash)" ``` at the end of the line of ``` .bashrc ```  . </li>
-<li> Run ``` exec bash ``` to restart termnal for effect to take place. </li>
-<li> Customize your terminal adding a predefined theme ie ``` eval "$(oh-my-posh init bash --config /home/linuxbrew/.linuxbrew/Cellar/oh-my-posh/16.2.3/themes/emodipt-extend.omp.json)" ``` </li>
- 
-  <li> <a href"">THEMES</a>  include all the theme lines to add to the end ``` .bashrc ``` . 
+<li> 
+ Install brew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ``` . 
   
+</li>
+ 
+<li> 
+Install oh my posh ``` brew install jandedobbeleer/oh-my-posh/oh-my-posh ```  . </li>
+ 
+<li> 
+Add ``` eval "$(oh-my-posh init bash)" ``` at the end of the line of  ``` .bashrc ```  . 
+</li>
+  
+<li>
+Run ``` exec bash ``` to restart termnal for effect to take place.
+  
+</li>
+
+  <li>
+Customize your terminal adding a predefined theme ie ``` eval "$(oh-my-posh init bash --config /home/linuxbrew/.linuxbrew/Cellar/oh-my-posh/16.2.3/themes/emodipt-extend.omp.json)" ``` 
+
+  </li>
+ 
+  <li> 
+    <a href"">THEMES</a>  include all the theme lines to add to the end ``` .bashrc ``` . 
+  
+  </li> 
 
 
 </ol>
