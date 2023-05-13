@@ -1,6 +1,6 @@
 # cross-notes
 
-## ohmyposh terminal theming
+## oh my posh terminal theming
 
 https://ohmyposh.dev/docs/installation/linux
 
