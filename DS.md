@@ -1,7 +1,7 @@
 ## DSEA 
 
 - [x]  python3
-- [x]  (To install dbt) `pip install dbt-core`
+- [x]  (To install dbt) `pip install dbt-core` if you get path warning `export PATH="$PATH:/home/<username>/.local/bin"`
 - [x]   (To install airflow)  `pip install "apache-airflow[celery]==2.7.1" --constraint`
 - [x]    (To install pyspark) `pip install pyspark`
 - [x]    (To install snowflake) `pip install snowflake-connector-python`
