@@ -20,3 +20,11 @@
 - `sudo mysql_secure_installation` =====> Start security script prompts
 - `sudo mysql` ======>Try MySQL prompt using the following command
                                      `show databases;`     => Show existing databases
+
+  ## MYSQL BASICS ON lINUX
+- `sudo service mysql start` After booting up you would like to stat mysql service 
+- client by running `mysql -u username -p`, where username is your MySQL username.You'll be prompted to enter your MySQL password. 
+- `CREATE DATABASE mydatabase;` replace `mydatabase` with the name you want for your database.
+- `SHOW DATABASES;` This list all the available databases.
+- `USE mydatabase;` If you want to work with the newly created database, you can use the USE statement.
+  
