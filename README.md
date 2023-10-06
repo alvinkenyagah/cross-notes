@@ -184,6 +184,6 @@ https://github.com/settings/keys    //Add your public key to GitHub
 ### Usage
 `lt --port 8000`
 
-### Deploat windows
+### Debloat windows
 - Run Windows powershell as administrator
 - `iwr -useb https://christitus.com/win | iex`
