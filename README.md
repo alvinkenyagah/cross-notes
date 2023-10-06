@@ -183,3 +183,7 @@ https://github.com/settings/keys    //Add your public key to GitHub
 `npm install -g localtunnel`
 ### Usage
 `lt --port 8000`
+
+### Deploat windows
+- Run Windows powershell as administrator
+- `iwr -useb https://christitus.com/win | iex`
