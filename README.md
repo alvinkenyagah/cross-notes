@@ -187,3 +187,6 @@ https://github.com/settings/keys    //Add your public key to GitHub
 ### Debloat windows
 - Run Windows powershell as administrator
 - `iwr -useb https://christitus.com/win | iex`
+
+## Create Swap Partition on Linux
+- `https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-22-04`
